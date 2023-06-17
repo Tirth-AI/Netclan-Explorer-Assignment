@@ -21,35 +21,35 @@ class Fragment1 : Fragment() {
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList1.add(UserDetails("Pooja", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList1.add(UserDetails("Ramu", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList1.add(UserDetails("Seda", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList1.add(UserDetails("Tarun", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList1.add(UserDetails("Kalpana", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList1.add(UserDetails("Yash", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList1.add(UserDetails("Bhupen", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList1.add(UserDetails("Pallavi", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList1.add(UserDetails("Mehak", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList1.add(UserDetails("Ananya", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList1.add(UserDetails("fsdf", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList1.add(UserDetails("Ritu", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList1.add(UserDetails("yjjt", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList1.add(UserDetails("Shyam", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList1.add(UserDetails("were", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList1.add(UserDetails("Monu", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 

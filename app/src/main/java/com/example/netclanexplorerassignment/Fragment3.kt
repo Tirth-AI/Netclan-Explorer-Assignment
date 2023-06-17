@@ -23,19 +23,19 @@ class Fragment3 : Fragment() {
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList3.add(UserDetails("Pooja", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList3.add(UserDetails("Ram", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList3.add(UserDetails("Seda", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList3.add(UserDetails("Shyam", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList3.add(UserDetails("Kalpana", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList3.add(UserDetails("Balram", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList3.add(UserDetails("Bhupen", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList3.add(UserDetails("Tejas", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
@@ -43,15 +43,15 @@ class Fragment3 : Fragment() {
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList3.add(UserDetails("fsdf", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList3.add(UserDetails("Pari", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList3.add(UserDetails("yjjt", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList3.add(UserDetails("Sanjay", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList3.add(UserDetails("were", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList3.add(UserDetails("Rajesh", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 

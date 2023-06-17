@@ -22,7 +22,19 @@ class Fragment2 : Fragment() {
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList2.add(UserDetails("Tirth", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList2.add(UserDetails("Riya", "Within 100m", "Dance | Music | Technology", "New Delhi",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
+                    " dui eu commodo.", 50))
+
+        usersList2.add(UserDetails("Abhir", "Within 100m", "Dance | Music | Technology", "New Delhi",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
+                    " dui eu commodo.", 50))
+
+        usersList2.add(UserDetails("Prineeta", "Within 100m", "Dance | Music | Technology", "New Delhi",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
+                    " dui eu commodo.", 50))
+
+        usersList2.add(UserDetails("Dhiren", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
@@ -30,27 +42,15 @@ class Fragment2 : Fragment() {
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList2.add(UserDetails("Tirth", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList2.add(UserDetails("Balram", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList2.add(UserDetails("Tirth", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList2.add(UserDetails("Ram", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
-        usersList2.add(UserDetails("Tirth", "Within 100m", "Dance | Music | Technology", "New Delhi",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
-                    " dui eu commodo.", 50))
-
-        usersList2.add(UserDetails("Tirth", "Within 100m", "Dance | Music | Technology", "New Delhi",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
-                    " dui eu commodo.", 50))
-
-        usersList2.add(UserDetails("Tirth", "Within 100m", "Dance | Music | Technology", "New Delhi",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
-                    " dui eu commodo.", 50))
-
-        usersList2.add(UserDetails("Tirth", "Within 100m", "Dance | Music | Technology", "New Delhi",
+        usersList2.add(UserDetails("Sanjay", "Within 100m", "Dance | Music | Technology", "New Delhi",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu augue tristique, fermentum purus at, aliquam purus. Integer molestie fringilla" +
                     " dui eu commodo.", 50))
 
