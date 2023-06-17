@@ -1,4 +1,4 @@
-package com.example.netclanexplorerassignment
+package com.example.netclanexplorerassignment.Activity
 
 import android.annotation.SuppressLint
 import android.graphics.Color

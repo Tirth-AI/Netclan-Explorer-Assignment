@@ -1,4 +1,4 @@
-package com.example.netclanexplorerassignment
+package com.example.netclanexplorerassignment.DataModel
 
 
 data class UserDetails(

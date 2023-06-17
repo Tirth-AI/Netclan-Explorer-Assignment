@@ -1,22 +1,22 @@
-package com.example.netclanexplorerassignment
+package com.example.netclanexplorerassignment.Adapters
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
 import android.widget.ProgressBar
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.bumptech.glide.Glide
+import com.example.netclanexplorerassignment.R
+import com.example.netclanexplorerassignment.DataModel.UserDetails
 
-class PersonContactAdapter1(private val items: ArrayList<UserDetails>) : RecyclerView.Adapter<ContactViewHolder1>() {
+class PersonContactAdapter2(private val items: ArrayList<UserDetails>) : RecyclerView.Adapter<ContactViewHolder2>() {
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ContactViewHolder1 {
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ContactViewHolder2 {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.each_contact, parent, false)
-        return ContactViewHolder1(view)
+        return ContactViewHolder2(view)
     }
 
-    override fun onBindViewHolder(holder: ContactViewHolder1, position: Int) {
+    override fun onBindViewHolder(holder: ContactViewHolder2, position: Int) {
         val currentItem = items[position]
         holder.aboutPerson.text = currentItem.aboutPerson
         holder.distance.text = currentItem.distance
@@ -31,7 +31,7 @@ class PersonContactAdapter1(private val items: ArrayList<UserDetails>) : Recycle
     }
 }
 
-class ContactViewHolder1(itemView: View): RecyclerView.ViewHolder(itemView){
+class ContactViewHolder2(itemView: View): RecyclerView.ViewHolder(itemView){
     val userName: TextView = itemView.findViewById(R.id.tv_Username)
     val location: TextView = itemView.findViewById(R.id.tv_Location)
     val aboutPerson: TextView = itemView.findViewById(R.id.tv_AboutPerson)

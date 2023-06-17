@@ -1,10 +1,12 @@
-package com.example.netclanexplorerassignment
+package com.example.netclanexplorerassignment.Adapters
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.lifecycle.Lifecycle
-import androidx.recyclerview.widget.RecyclerView
 import androidx.viewpager2.adapter.FragmentStateAdapter
+import com.example.netclanexplorerassignment.Fragments.Fragment1
+import com.example.netclanexplorerassignment.Fragments.Fragment2
+import com.example.netclanexplorerassignment.Fragments.Fragment3
 
 class VPAdapter(fragmentManager: FragmentManager, lifecycle: Lifecycle) :
     FragmentStateAdapter(fragmentManager, lifecycle) {

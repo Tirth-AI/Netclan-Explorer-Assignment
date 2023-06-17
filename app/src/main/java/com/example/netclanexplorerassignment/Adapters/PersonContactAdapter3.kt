@@ -1,4 +1,4 @@
-package com.example.netclanexplorerassignment
+package com.example.netclanexplorerassignment.Adapters
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,6 +6,8 @@ import android.view.ViewGroup
 import android.widget.ProgressBar
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.netclanexplorerassignment.R
+import com.example.netclanexplorerassignment.DataModel.UserDetails
 
 class PersonContactAdapter3(private val items: ArrayList<UserDetails>) : RecyclerView.Adapter<ContactViewHolder3>() {
 
